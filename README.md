@@ -17,4 +17,4 @@ It use a Convolutional Network model (Resnet50 and VGG16) with a pre trained ima
 
 #### See it in action
 
-![alt text](gutomcosta/learning-object-recognition/blob/master/recognition.gif)
+![alt text](https://github.com/gutomcosta/learning-object-recognition/raw/master/recognition.gif)
