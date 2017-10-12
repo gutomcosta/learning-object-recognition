@@ -13,7 +13,7 @@ TensorFlow( with keras )
 
 ### How does it work?
 
-It use a Convolutional Network model (Resnet50 and VGG16) with a pre trained imagenet weights.
+It uses a Convolutional Network model (Resnet50 and VGG16) with a pre trained imagenet weights.
 
 #### See it in action
 
