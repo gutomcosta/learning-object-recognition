@@ -17,4 +17,6 @@ It uses a Convolutional Network model (Resnet50 and VGG16) with a pre trained im
 
 #### See it in action
 
+The black label is the current object, and the green label is the recognition in action.
+
 ![alt text](https://github.com/gutomcosta/learning-object-recognition/raw/master/recognition.gif)
